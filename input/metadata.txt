@@ -1,0 +1,15 @@
+Datasets that accompany the analysis performed in Kayleigh's 490 project. 
+
+dataset: 490_Activity.xlsx (tab 1: PooledActivty_Park)
+Park: park where sampling occurred (VER = Parc de la Vérendrye, SDM = Section Desmarchais, SEN = Section Emard Nord, SES = Section Emard Sud, DMG = Parc D'Arcy McGee, CLF = Park Clifford)
+Plot Type: three types of plantings, floral (10m2 with flowers), shrubby (30m2 with flowers and shrubs), and forests (90m2 with flowers, shrubs, and trees)
+Plot ID: unique ID for plot 
+Flight: count of butterflies including fly by 
+Plot Use: count of butterflies using the plot including plant visits, nectar gathering, rest, and territoriality 
+
+dataset: 490_Richness.xlsx (tab 1: Sheet1)
+Park: park where sampling occurred (VER = Parc de la Vérendrye, SDM = Section Desmarchais, SEN = Section Emard Nord, SES = Section Emard Sud, DMG = Parc D'Arcy McGee, CLF = Park Clifford)
+Plot Type: three types of plantings, floral (10m2 with flowers), shrubby (30m2 with flowers and shrubs), and forests (90m2 with flowers, shrubs, and trees)
+Plot ID: unique ID for plot 
+Pooled Richness: number of species found in the plot
+Richness ID: ID of each of the species found in the plot

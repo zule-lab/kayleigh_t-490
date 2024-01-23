@@ -1,8 +1,6 @@
-setwd("C:/Users/kayle/OneDrive/Documents/Concordia/Semester9_Fall2023/490")
-
 library(readxl)
 
-X490_Richness <- read_excel("490_Richness.xlsx")
+X490_Richness <- read_excel("input/490_Richness.xlsx")
 
 View(X490_Richness)
 
@@ -44,7 +42,7 @@ boxplot(Richness ~ Park, data = data)
 
 # Now on to activity
 
-activity <- read_excel("~/Concordia/Semester9_Fall2023/490/490_Activity.xlsx")
+activity <- read_excel("input/490_Activity.xlsx")
 activity
 
 #Reorganize our data into easier names to follow
